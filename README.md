@@ -1,1 +1,6 @@
-# kakaotalk_clone_coding
+# 카카오톡 클론 코딩
+
+> 노마드 코더 클론코딩 실습
+
+
+

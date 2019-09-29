@@ -1,0 +1,14 @@
+{
+    "name": "kakaotalk_clone_coding",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "https://github.com/jjori-master/kakaotalk_clone_coding.git",
+    "author": "jjori <jjori.master@gmail.com>",
+    "license": "MIT",
+    "scripts": {
+        "start": "parcel index.html"
+    },
+    "dependencies": {
+        "@babel/preset-env": "^7.6.2"
+    }
+}
